@@ -1,4 +1,4 @@
-console.log("Day 03");
+console.log("%cDay 03", 'color: #00ff44');
 
 const day03Arr = `ZNNvFWHqLNPZHHqPTHHnTGBhrrpjvmwfMmpfpjBjwpmw
 sbdzQgzgssgbglRtmjlwhjBlfrSrMt

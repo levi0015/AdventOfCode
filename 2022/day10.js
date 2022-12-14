@@ -1,4 +1,4 @@
-console.log("Day 10");
+console.log("%cDay 10", 'color: #00ff44');
 
 // const day10Arr = `addx 15
 // addx -11

@@ -1,4 +1,4 @@
-console.log("Day 11");
+console.log("%cDay 11", 'color: #00ff44');
 
 const day11Arr = `Monkey 0:
 Starting items: 66, 59, 64, 51

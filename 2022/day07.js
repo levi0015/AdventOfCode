@@ -1,4 +1,4 @@
-console.log("Day 07");
+console.log("%cDay 07", 'color: #00ff44');
 
 const day07Arr = `$ cd /
 $ ls

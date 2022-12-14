@@ -1,4 +1,4 @@
-console.log("Day __");
+console.log("%cDay __", 'color: #ff4400');
 
 const day__Arr = ``;
 

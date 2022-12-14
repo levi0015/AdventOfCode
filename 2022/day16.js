@@ -1,4 +1,4 @@
-console.log("Day 16");
+console.log("%cDay 16", 'color: #ff4400');
 
 const day16Arr = ``;
 
@@ -6,8 +6,8 @@ function day16() {
     
 }
 
-console.log(`Part one's answer is: ${day16()}`);
+// console.log(`Part one's answer is: ${day16()}`);
 // console.log(`Part two's answer is: ${day16()}`);
 
-// console.log(`Part one's answer is: null`);
-// console.log(`Part two's answer is: null`);
+console.log(`Part one's answer is: null`);
+console.log(`Part two's answer is: null`);

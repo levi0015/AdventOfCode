@@ -1,4 +1,4 @@
-console.log("Day 02");
+console.log("%cDay 02", 'color: #00ff44');
 
 const day02Arr = `C Z
 C Y

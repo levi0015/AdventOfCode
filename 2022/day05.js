@@ -1,4 +1,4 @@
-console.log("Day 05");
+console.log("%cDay 05", 'color: #00ff44');
 
 const day05Arr = `move 6 from 9 to 3
 move 2 from 2 to 1

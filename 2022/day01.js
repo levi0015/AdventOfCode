@@ -1,4 +1,4 @@
-console.log("Day 01");
+console.log("%cDay 01", 'color: #00ff44');
 
 const day01Nums = `7896
 4992
