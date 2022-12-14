@@ -225,5 +225,5 @@ function isInArr(arr, check) {
 // console.log(`Part one's answer is: ${day14(day14Arr)}`);
 // console.log(`Part two's answer is: ${day14(day14Arr, true)}`);
 
-console.log(`Part two's answer is: 873`);
-console.log(`Part two's answer is: 24813`);
+console.log(`Part one's answer is: 873`);
+console.log(`Part two's answer is: 24813`); 
