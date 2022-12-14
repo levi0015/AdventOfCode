@@ -2107,5 +2107,8 @@ function day09(input, partTwo) {
     return [tOneVisited.length, tNineVisited.length];
 }
 
-console.log(`Part one's answer is: ${day09(day09Arr)[0]}`);
-console.log(`Part two's answer is: ${day09(day09Arr, true)[1]}`);
+// console.log(`Part one's answer is: ${day09(day09Arr)[0]}`);
+// console.log(`Part two's answer is: ${day09(day09Arr, true)[1]}`);
+
+console.log(`Part one's answer is: 6376`);
+console.log(`Part two's answer is: 2607`);

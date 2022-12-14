@@ -2251,5 +2251,8 @@ function day01(input) {
     return [answerOne, answerTwo];
 }
 
-console.log(`Part one's answer is: ${day01(day01Nums)[0]}`);
-console.log(`Part two's answer is: ${day01(day01Nums)[1]}`);
+// console.log(`Part one's answer is: ${day01(day01Nums)[0]}`);
+// console.log(`Part two's answer is: ${day01(day01Nums)[1]}`);
+
+console.log(`Part one's answer is: 68787`);
+console.log(`Part two's answer is: 198041`);

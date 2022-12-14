@@ -503,13 +503,6 @@ move 2 from 5 to 4
 move 1 from 5 to 8
 move 1 from 5 to 9`;
 
-let testO = 0;
-
-// const day05Arr = `move 1 from 2 to 1
-// move 3 from 1 to 3
-// move 2 from 2 to 1
-// move 1 from 1 to 2`;
-
 let stacks = {
     1: ['G', 'F', 'V', 'H', 'P', 'S'],
     2: ['G', 'J', 'F', 'B', 'V', 'D', 'Z', 'M'],
@@ -533,19 +526,6 @@ let stacksTwo = {
     8: ['Q', 'R', 'S', 'N', 'C', 'H', 'Z', 'V'],
     9: ['F', 'L', 'G', 'P', 'V', 'Q', 'J']
 };
-
-let test = 0;
-
-// let stacks = {
-//     1: ['Z', 'N'],
-//     2: ['M', 'C', 'D'],
-//     3: ['P']
-// };
-// let stacksTwo = {
-//     1: ['Z', 'N'],
-//     2: ['M', 'C', 'D'],
-//     3: ['P']
-// };
 
 function day05(input) {
     input = input.split('\n').map(str => str.split(' '));
@@ -593,5 +573,8 @@ function day05Two(input) {
     return topCrates;
 }
 
-console.log(`Part one's answer is: ${day05(day05Arr)}`);
-console.log(`Part two's answer is: ${day05Two(day05Arr)}`);
+// console.log(`Part one's answer is: ${day05(day05Arr)}`);
+// console.log(`Part two's answer is: ${day05Two(day05Arr)}`);
+
+console.log(`Part one's answer is: FCVRLMVQP`);
+console.log(`Part two's answer is: RWLWGJGFD`);

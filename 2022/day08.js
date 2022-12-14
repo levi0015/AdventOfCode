@@ -162,5 +162,8 @@ function day08(input, partTwo) {
     return [visibleTrees, highestScore];
 }
 
-console.log(`Part one's answer is: ${day08(day08Arr)[0]}`);
-console.log(`Part two's answer is: ${day08(day08Arr, true)[1]}`);
+// console.log(`Part one's answer is: ${day08(day08Arr)[0]}`);
+// console.log(`Part two's answer is: ${day08(day08Arr, true)[1]}`);
+
+console.log(`Part one's answer is: 1684`);
+console.log(`Part two's answer is: 486540`);

@@ -125,7 +125,8 @@ function day11(input, rounds, partTwo) {
     return (inspectArr[0] * inspectArr[1]);
 }
 
-console.log(`Part one's answer is: ${day11(day11Arr, 20)}`);
-
+// console.log(`Part one's answer is: ${day11(day11Arr, 20)}`);
 // console.log(`Part two's answer is: ${day11(day11Arr, 10000, true)}`);
-console.log(`Part two's answer is: 18170818354`); // Little heavy (and long) so hardcoded answer
+
+console.log(`Part one's answer is: 90294`);
+console.log(`Part two's answer is: 18170818354`); 

@@ -1022,8 +1022,11 @@ function day04(input, partTwo) {
         }
     }
 
-    return overlapPairs
+    return overlapPairs;
 }
 
-console.log(`Part one's answer is: ${day04(day04Arr)}`);
-console.log(`Part two's answer is: ${day04(day04Arr, true)}`);
+// console.log(`Part one's answer is: ${day04(day04Arr)}`);
+// console.log(`Part two's answer is: ${day04(day04Arr, true)}`);
+
+console.log(`Part one's answer is: 528`);
+console.log(`Part two's answer is: 881`);

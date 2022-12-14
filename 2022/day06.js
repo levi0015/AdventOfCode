@@ -11,5 +11,8 @@ function day06(input, disChar) {
     }
 }
 
-console.log(`Part one's answer is: ${day06(day06Arr, 4)}`);
-console.log(`Part two's answer is: ${day06(day06Arr, 14)}`);
+// console.log(`Part one's answer is: ${day06(day06Arr, 4)}`);
+// console.log(`Part two's answer is: ${day06(day06Arr, 14)}`);
+
+console.log(`Part one's answer is: 1080`);
+console.log(`Part two's answer is: 3645`);

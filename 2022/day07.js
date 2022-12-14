@@ -1110,5 +1110,8 @@ function day07(input) {
     return [partOne, partTwo];
 }
 
-console.log(`Part one's answer is: ${day07(day07Arr)[0]}`);
-console.log(`Part two's answer is: ${day07(day07Arr)[1]}`);
+// console.log(`Part one's answer is: ${day07(day07Arr)[0]}`);
+// console.log(`Part two's answer is: ${day07(day07Arr)[1]}`);
+
+console.log(`Part one's answer is: 1581595`);
+console.log(`Part two's answer is: 1544176`);

@@ -333,5 +333,8 @@ function day03(input, partTwo) {
     return prioSum;
 }
 
-console.log(`Part one's answer is: ${day03(day03Arr)}`);
-console.log(`Part two's answer is: ${day03(day03Arr, true)}`);
+// console.log(`Part one's answer is: ${day03(day03Arr)}`);
+// console.log(`Part two's answer is: ${day03(day03Arr, true)}`);
+
+console.log(`Part one's answer is: 7878`);
+console.log(`Part two's answer is: 2760`);

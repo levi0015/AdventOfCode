@@ -2581,5 +2581,8 @@ function day02(input, partTwo) {
     return totalScore;
 }
 
-console.log(`Part one's answer is: ${day02(day02Arr)}`);
-console.log(`Part two's answer is: ${day02(day02Arr, true)}`);
+// console.log(`Part one's answer is: ${day02(day02Arr)}`);
+// console.log(`Part two's answer is: ${day02(day02Arr, true)}`);
+
+console.log(`Part one's answer is: 9241`);
+console.log(`Part two's answer is: 14610`);

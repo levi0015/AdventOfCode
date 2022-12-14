@@ -75,5 +75,6 @@ function day12(input) {
 
 // console.log(`Part one's answer is: ${answersDay12[0]}`);
 // console.log(`Part two's answer is: ${answersDay12[1]}`);
+
 console.log(`Part one's answer is: 423`);
 console.log(`Part two's answer is: 416`);

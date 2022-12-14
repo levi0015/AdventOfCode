@@ -334,5 +334,8 @@ function day10(input) {
     return [sum, 'RZHFGJCB'];
 }
 
-console.log(`Part one's answer is: ${day10(day10Arr)[0]}`);
-console.log(`Part two's answer is: ${day10(day10Arr)[1]}`);
+// console.log(`Part one's answer is: ${day10(day10Arr)[0]}`);
+// console.log(`Part two's answer is: ${day10(day10Arr)[1]}`);
+
+console.log(`Part one's answer is: 13860`);
+console.log(`Part two's answer is: RZHFGJCB`);
