@@ -1,4 +1,4 @@
-console.log("%cDay 15", 'color: #ff4400');
+console.log("%cDay 15", 'color: #ddaa00');
 
 const day15Arr = `Sensor at x=3842919, y=126080: closest beacon is at x=3943893, y=1918172
 Sensor at x=406527, y=2094318: closest beacon is at x=-1066, y=1333278
