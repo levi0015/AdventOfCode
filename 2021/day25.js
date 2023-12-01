@@ -207,3 +207,16 @@ function day25(input) {
 }
 
 console.log(`Part one's answer is: ${day25(day25Arr)}`);
+
+let x = true;
+while (x) {
+    a = 0;
+    a++;
+
+    x = false;
+    if (x == false) {
+        break;
+    }
+
+    console.log(a);
+}
